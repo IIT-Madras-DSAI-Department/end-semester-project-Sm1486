@@ -6,7 +6,7 @@
 This repository is the **starter** for your End Semester Project submission in GitHub Classroom. You can implement your solution and push your work in this repository. Please free to edit this README.md file as per your requirements.
 
 > **Scope (as per assignment brief):**
-> Give an introduction to your repository here: Eg. This repository contains a complete implementation for ...
+> This repository contains a complete implementation for the classification of the MNIST dataset.
 
 ---
 
@@ -18,13 +18,16 @@ This repository is the **starter** for your End Semester Project submission in G
 
 ## 📁 Repository Structure
 
-* Describe your repository structure here. Explain about overall code organization.
+* There are two files, main.py and algorithms.py.
+* The algorithms.py file has the code for all the classes of the models.
+* The main.py file has the code to run and inference the models on the dataset.
 
 ---
 
 ## 📦 Installation & Dependencies
 
-* Mention all the related instructions for installation of related packages for running your code here.
+* Dependencies - numpy and pandas
+* pip install numpy pandas
 
 ---
 
@@ -34,7 +37,7 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ### A. Command-line (recommended for grading)
 
-* Mention the instructions to run you .py files.
+* Run the main.py file.
   
 ---
 
@@ -44,7 +47,7 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ## 🧾 Authors
 
-**<Name, Roll No.>**, IIT Madras (2025–26)
+**<Sahithi Macharapu, DA24B024>**, IIT Madras (2025–26)
 
 
 ## Best Practices:
