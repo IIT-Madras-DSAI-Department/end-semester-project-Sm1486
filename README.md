@@ -41,9 +41,6 @@ All experiments should be runnable from the command line **and** reproducible in
   
 ---
 
-## You can further add your own sections/titles along with corresponding contents here:
-
----
 
 ## 🧾 Authors
 
